@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">MediCare</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Family Profile</item>
+        <item>Doctors</item>
+        <item>Diets</item>
+        <item>Vaccination</item>
+        <item>Care</item>
+        <item>Emergency Support</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+        <item>@drawable/create</item>
+        <item>@drawable/familly_profile</item>
+        <item>@drawable/doctor</item>
+        <item>@drawable/diet</item>
+        <item>@drawable/vaccin</item>
+        <item>@drawable/care</item>
+        <item>@drawable/weight</item>
+    </array>
+
+    <string name="Name">Name</string>
+    <string name="age">Age</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="Date_Of_Birth">Click to select date</string>
+    <string name="Height">Height in cm</string>
+    <string name="Weight">Weight</string>
+    <string name="Save">Save</string>
+    <string name="createDietChart">Create Diet Chart</string>
+    <string name="alarm">Set Alarm</string>
+    <string name="dateOfDiet">Date Of Diet</string>
+    <string name="timeOfDiet">Time Of Diet</string>
+    <string name="myfeastName">Feast name</string>
+    <string name="myfeastManu">Feast manu</string>
+    <string name="Special_comment">Special Comment</string>
+    <string name="Create_Profile">Create Family Profile</string>
+    <string name="My_Profile">My Profile</string>
+    <string name="Update">Update</string>
+    <string name="load"></string>
+    <string name="myDietChart">Diet Chart</string>
+    <string name="todayDiet">Diet Chart of The Day</string>
+    <string name="upComingDiet">Upcoming Diet Chart</string>
+    <string name="Friday">16/01/2015 Friday</string>
+    <string name="image">Loading!!!</string>
+    <string name="time">Time</string>
+    <string name="manu">Feast manu</string>
+    <string name="home">ICare Diet Home</string>
+    <string name="menu_Home">ICare->Home</string>
+    <string name="food">Event Name</string>
+    <string name="addDailyDiet">Add Your Daily Diet</string>
+    <string name="title_activity_icare_splash">ICare Splash</string>
+    <string name="title_activity_icare_profile_preview">Profile Preview</string>
+    <string name="title_activity_icare_profile_preview_acitvity">ICare Profile Preview</string>
+    <string name="title_activity_icare_create_diet_chart">ICare Create Diet Chart</string>
+    <string name="title_activity_icare_diet_list">ICare Diet List</string>
+    <string name="title_activity_icare_daily_diet_chart_view">Daily Diet Chart View </string>
+    <string name="title_activity_icare_diet_history">ICare Diet History</string>
+    <string name="title_activity_icare_care_info"> Care Information</string>
+    <string name="title_doctor_profile_create">Create Doctor Profile</string>
+    <string name="title_home">I Care Home</string>
+    <string name="radioAll">All</string>
+    <string name="radioWeek">Weekly</string>
+    <string name="radioMonth">Monthly</string>
+    <string name="pickDiet">Pick Diet Date</string>
+    <string name="myDietChartHistory">My Diet Chart History</string>
+    <string name="history">History</string>
+    <string name="createDiet">Create Diet</string>
+    <string name="myprofile">My Profile</string>
+    <string name="date">Date</string>
+    <string name="deleteProfile">Delete</string>
+    <string name="myfeastMenu">Feast menu</string>
+    <string name="successfullySaved">Successfully Saved</string>
+    <string name="notSaved">Not Saved</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="successfullyUpdated">Successfully Updated</string>
+    <string name="notUpdated">Not Updated</string>
+    <string name="editData">Edit Data</string>
+    <string name="selectData">Select Data</string>
+    <string name="deleteData">Delete Data</string>
+    <string name="title_doctor_list">Doctor List</string>
+    <string name="email_hint">info@stackoverflow.net</string>
+    <string name="care_name_hint">Medinova</string>
+    <string name="phone_hint">+8801911758004</string>
+    <string name="address_hint">House# , Roda#, City name</string>
+    <string name="dainame">Name:</string>
+    <string name="diaaddress">Address:</string>
+    <string name="diamobile">Mobile:</string>
+    <string name="diaemail">Email:</string>
+
+    <string-array name="bloodGroup">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>O-</item>
+    </string-array>
+
+    <string name="blood_prompt">Choose Blood Group</string>
+    <string name="title_activity_main">ICare</string>
+    <string name="title_activity_care_info_display">Care Information</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_family_profile">Family Profile</string>
+
+    <!-- Add it vaccine  start -->
+
+    <string name="createVaccinationChart">Create Vaccination Chart</string>
+    <string name="dateOfVaccination">Date Of Vaccination</string>
+    <string name="timeOfVaccination">Time Of Vaccination</string>
+    <string name="myVaccinationName">Vaccination name</string>
+    <string name="myVaccinationDetails">Vaccination Details </string>
+    <string name="myVaccinationChart">Vaccination Chart</string>
+    <string name="todayVaccination">Vaccination Chart of The Day</string>
+    <string name="upComingVaccination">Upcoming Vaccination Chart</string>
+    <string name="title_activity_icare_create_vaccination_chart">ICare CreateVaccination Chart</string>
+    <string name="title_activity_icare_vaccination_list">ICare Vaccination List</string>
+    <string name="myVaccinationChartHistory">Vaccination Chart History</string>
+    <string name="title_activity_icare_daily_vaccination_chart_view">Daily Vaccination Chart</string>
+    <string name="title_activity_icare_vaccination_history">ICare Vaccination History</string>
+    <string name="mVaccinationDetails">Vaccination Details</string>
+    <string name="addDailyVaccination">Add Daily Vaccination</string>
+    <string name="createVaccination">Create Vaccination</string>
+    <string name="pickVaccination">Pick Vaccination Date</string>
+    <string name="menu">Vaccination menu</string>
+    <string name="vaccine">Vaccination Name</string>
+    <string name="vaccineChart">Vaccination Chart</string>
+
+
+    <!-- Add it new end -->
+
+    <string name="activity_emergency">Emergency Support</string>
+    <string name="title_activity_dispaly_allfamily_profile">Family Profile</string>
+    <string name="title_activity_view_family_profile_details">Profile Details</string>
+    <string name="title_activity_display_family_details">Display Family Details</string>
+
+    <!-- Add it for family diet   || start -->
+
+    <string name="createFamilyDietChart">Create Family Diet </string>
+    <string name="dateOfFamilyDiet">Date Of Family Diet</string>
+    <string name="timeOfFamilyDiet">Time Of Family Diet</string>
+    <string name="familyDietName">Diet name</string>
+    <string name="familyDietDetails">Diet Details </string>
+    <string name="familyDietChart">Family Diet Chart</string>
+    <string name="todayFamilyDiet">Family Diet of The Day</string>
+    <string name="upComingFamilyDiet">Upcoming Family Diet</string>
+    <string name="title_activity_icare_create_family_diet_chart">ICare Create Family  Diet </string>
+    <string name="title_activity_icare_family_dietlist">ICare Family Diet List</string>
+    <string name="familyDietChartHistory">Family Diet History</string>
+    <string name="title_activity_icare_daily_family_diet_chart_view">Daily Family Diet Chart </string>
+    <string name="title_activity_icare_family_diet_history">ICare Family Diet History</string>
+    <string name="mFamilyDietDetails">Family Diet Details</string>
+    <string name="addDailyFamilyDiet">Add Your Daily Family Diet </string>
+    <string name="createFamilyDiet">Create Family Diet </string>
+    <string name="pickFamilyDiet">Pick Family Diet Date</string>
+    <string name="family_diet_details">Family Diet Details</string>
+    <string name="family_diet_name">Family Diet Name</string>
+    <string name="family_diet_chart">Family Diet  Chart</string>
+    <string name="family_diet_history">Family Diet History</string>
+    <string name="family_diet_today_upcomming">Family Diet History</string>
+    <string name="title_activity_my_profile">MyProfileActivity</string>
+
+    <!-- Add it for family diet  || end  -->
+
+</resources>

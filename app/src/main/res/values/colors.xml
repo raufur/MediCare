@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#00897B</color>
+    <color name="ColorPrimaryDark">#00695C</color>
+    <color name="tabsScrollColor">#004D40</color>
+
+
+    <color name="actionbar_background">#58BDC1</color> //write the color you want here
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#626262</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#303030</color>
+    <color name="counter_text_color">#c5c4c4</color>
+</resources>
